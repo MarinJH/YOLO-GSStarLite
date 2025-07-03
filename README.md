@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
+- [Code of Conduct](#code-of-conduct)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
