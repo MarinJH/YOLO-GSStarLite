@@ -1,0 +1,9 @@
+train: D:\marin program\yolov8\plant_data_new_new\images\train
+val: D:\marin program\yolov8\plant_data_new_new\images\val
+test: D:\marin program\yolov8\plant_data_new_new\images\test
+
+# number of classes
+nc: 12
+
+# class names
+names: ['nutgrass flatsedge', 'Oakleaf Goosefoot', 'meadow grass', 'thistle','Eclipta','Carpetweed','MorningGlory','SpottedSpurge','Waterhemp','Goosegrass','Ragweed','CutleafGroundcherry']
