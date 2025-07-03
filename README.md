@@ -38,9 +38,8 @@ Due to the large size of the complete agricultural image dataset used for traini
 This repository contains:
 - A curated subset of sample images
 - Annotation examples
-- Pre-trained model weights
 
-For research access to the **complete dataset** (over 15,000 high-resolution field images with comprehensive annotations), please contact us via email: [x15014082116@163.com](mailto:x15014082116@163.com). Include your research affiliation and intended use case.
+For research access to the **complete dataset** (over 8000+ high-resolution field images with comprehensive annotations), please contact us via email: [x15014082116@163.com](mailto:x15014082116@163.com). Include your research affiliation and intended use case.
 
 ## Code of Conduct
 
