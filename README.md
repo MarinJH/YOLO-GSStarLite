@@ -3,7 +3,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Dataset](#dataset)  <!-- 新增数据集部分 -->
+- [Dataset](#dataset)
+- [Model Usage Instructions](#model-usage-instructions)  <!-- 新增模型使用说明部分 -->
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -41,27 +42,11 @@ This repository contains:
 
 For research access to the **complete dataset** (over 8000+ high-resolution field images with comprehensive annotations), please contact us via email: [x15014082116@163.com](mailto:x15014082116@163.com). Include your research affiliation and intended use case.
 
-## Code of Conduct
+## Model Usage Instructions
 
-### Our Pledge
+Follow these steps to properly use YOLO-GSStarLite for your weed detection tasks:
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of:
-
-- Age
-- Body size
-- Visible or invisible disability
-- Ethnicity
-- Sex characteristics  
-- Gender identity and expression
-- Level of experience
-- Education
-- Socio-economic status
-- Nationality
-- Personal appearance
-- Race
-- Religion
-- Sexual identity and orientation
-
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
-
---- 剩余部分保持不变 ...
+### 1. Install Dependencies
+First install all required dependencies:
+```bash
+pip install -r requirements.txt
