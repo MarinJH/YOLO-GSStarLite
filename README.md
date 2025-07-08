@@ -48,7 +48,15 @@ Follow these steps to properly use YOLO-GSStarLite for your weed detection tasks
 
 ### 1. Install Dependencies
 First install all required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+### 2. Train your Model
 ```bash
-pip install -r requirements.txt
+   python train.py --data data.yaml --weights model.pt --epochs 200
+   ```
+###3. Evaluate the Model
+```bash
+   python evaluate.py --weights runs/train/exp/weights/best.pt --data data.yaml
+   ```
 
-### 2. Train Your Model
