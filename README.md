@@ -50,3 +50,5 @@ Follow these steps to properly use YOLO-GSStarLite for your weed detection tasks
 First install all required dependencies:
 ```bash
 pip install -r requirements.txt
+
+### 2. Train Your Model
