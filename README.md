@@ -59,4 +59,25 @@ First install all required dependencies:
 ```bash
    python evaluate.py --weights runs/train/exp/weights/best.pt --data data.yaml
    ```
+## Code of Conduct
 
+### Our Pledge
+
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of:
+
+- Age
+- Body size
+- Visible or invisible disability
+- Ethnicity
+- Sex characteristics  
+- Gender identity and expression
+- Level of experience
+- Education
+- Socio-economic status
+- Nationality
+- Personal appearance
+- Race
+- Religion
+- Sexual identity and orientation
+
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
