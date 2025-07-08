@@ -4,10 +4,8 @@
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Dataset](#dataset)
-- [Model Usage Instructions](#model-usage-instructions)  <!-- 新增模型使用说明部分 -->
+- [Model Usage Instructions](#model-usage-instructions)  
 - [Code of Conduct](#code-of-conduct)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
